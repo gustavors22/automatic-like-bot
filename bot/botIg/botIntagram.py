@@ -1,4 +1,3 @@
-# Criador : Gustavo Reis Silva.
 #Observação : é necessário ter o fire fox instalado para rodar o bot
 
 from selenium import webdriver
